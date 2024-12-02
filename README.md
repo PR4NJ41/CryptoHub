@@ -27,21 +27,6 @@ Built with ReactJS for a dynamic frontend and Spring Boot for a robust backend, 
 
 ---
 
-## 📂 Folder Structure  
-plaintext
-
-CryptoHub/
-├── Frontend-React/          # ReactJS frontend code
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── Backend/           # Spring Boot backend code
-│   ├── src/
-│   ├── pom.xml
-│   └── application.properties
-└── README.md          # Project documentation
----
-
 ## 🔧 Setup Instructions  
 
 ### Prerequisites  
